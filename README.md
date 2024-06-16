@@ -13,12 +13,17 @@ Responsive Design: Built with React and styled using CSS, ensuring a seamless ex
 The application is hosted locally at: http://localhost:5173/
 
 **Technologies Used**
+
 1-Front-End: React, HTML5, CSS3
+
 2-Deployment: Hosted on GitHub Pages
 
 ******Getting Started****
+
 To run the project locally:
 
-Clone this repository.
-Install dependencies using npm install.
-Start the development server with npm run dev.
+1-Clone this repository.
+
+2-Install dependencies using npm install.
+
+3-Start the development server with npm run dev.
