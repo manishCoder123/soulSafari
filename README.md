@@ -10,7 +10,7 @@ This project is a front-end application for booking safaris, developed as part o
 Responsive Design: Built with React and styled using CSS, ensuring a seamless experience across devices.
 
 ****Access the Application****
-The application is hosted locally at: http://localhost:5173/
+The application is hosted locally at: http://localhost:5173/ with "npm run dev"
 
 **Technologies Used**
 
